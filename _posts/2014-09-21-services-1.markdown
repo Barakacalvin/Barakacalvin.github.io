@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: stonks.jpeg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: GDP Data Abalysis:<br>GDP Data Visualization: Unveiling Global Economic Insights
 description: |
 ---
-A special thanks to [GDP Data Analysis Project]([http://join.deathtothestockphoto.com/](https://github.com/Barakacalvin/GDP-Data-Analysis)) for providing the photographs that you see in this template.  Visit their website to become a member!
+This project simply looks at the world GDP [GDP Data Analysis Project](https://github.com/Barakacalvin/GDP-Data-Analysis)
