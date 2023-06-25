@@ -2,7 +2,7 @@
 layout: default
 img: stonks.jpg
 category: Services
-title: GDP Data Abalysis:<br>GDP Data Visualization - Unveiling Global Economic Insights
+title: GDP Data Analysis:<br>GDP Data Visualization - Unveiling Global Economic Insights
 description: |
 ---
   This project simply looks at the world GDP [GDP Data Analysis Project](https://github.com/Barakacalvin/GDP-Data-Analysis)
